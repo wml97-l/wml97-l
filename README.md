@@ -17,4 +17,4 @@ I'm obsessed with getting the details right, from data cleaning to the final vis
 
 ### 📫 Get in touch
 
-I'm open to roles in data analytics, data science, business intelligence and AI. The best way to reach me is through [LinkedIn](YOUR-LINKEDIN-URL).
+I'm open to roles in data analytics, data science, business intelligence and AI. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/win-myint-17b620149/).
