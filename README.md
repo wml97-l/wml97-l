@@ -7,9 +7,10 @@ I'm obsessed with getting the details right, from data cleaning to the final vis
 🧰 Tech stack
 
 Languages and analysis: Python, SQL, DAX
-Machine learning: ARIMA, Random Forest, XGBoost, sentiment analysis (VADER)
-BI and visualisation: Power BI, Excel (XLOOKUP, Pivot Tables)
-Cloud and AI: AWS (Amazon Bedrock), Microsoft Azure
+Machine learning: ARIMA, Random Forest, XGBoost, sentiment analysis
+BI and visualisation: Power BI, Excel
+Cloud and AI: AWS
+, Microsoft Azure
 Geospatial: ArcGIS, remote sensing, Landsat imagery, NDVI analysis
 Web: React, FastAPI, Chrome extensions
 
